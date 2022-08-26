@@ -1,6 +1,7 @@
 # Hi everyone!
 ## here are the steps for you to jailbreak your iphone on distro linux, it will be easier if you do it on windows
 **NOTE:** This checkra1n only supports ios 15 and below. Please check before you do!
+
 Step1 : git clone this repositories about your device
 ```sh
 git clone git@github.com:thaihieu2706/Jailbreak-iphone.git 
