@@ -11,6 +11,7 @@ Step2 : move to the folder you just cloned about && give the file checkra1n exec
 cd Jailbreak-iphone && sudo chmod 777 checkra1n
 ```
 Step3 : connect your iphone with your pc
+
 Step4 : run file checkra1n and proceed to jailbreak
 ```sh
 sudo ./checkra1n
